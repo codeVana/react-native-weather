@@ -1,4 +1,5 @@
 Summary
+
 React Native enables you to build world-class application experiences on native platforms using a 
 consistent developer experience based on JavaScript and React.
 
@@ -9,9 +10,9 @@ can provide accurate short­term and long­term weather predictions to your busi
 or crazy idea.
 
 Try it out:
-Get an API key from forecast.io
-Go to http://rnplay.org and put in the Code
-See the app rendering
+1. Get an API key from forecast.io
+2. Go to http://rnplay.org create a login
+3. Put in the Code and See the app rendering
 
 Extend:
   1. The App is currently hard coded to use Portland in the API call for forecast.io, try to change it 
